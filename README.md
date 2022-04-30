@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zedgers
+- 👋 Hi, I’m someone
 - 👀 I’m interested in python and java
 - 🌱 I’m currently learning c#
 - 📫 Reach me on Discord: somebody#2380
